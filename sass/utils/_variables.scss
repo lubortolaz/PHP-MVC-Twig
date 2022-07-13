@@ -1,0 +1,39 @@
+@import "fonts"; 
+
+$color1: #FF9861;
+$color2: #ED5A77;
+$color3: #FFC161;
+
+$color1-darker: #E6773B;
+$color1-lighter: #FFD7C2;
+
+$color-dark: #4A4848;
+$color-light: #fff;
+
+$bg-color: #f3f3f3;
+
+$tooltip-color: $color-light;
+$tooltip-bg: $color-dark;
+
+/*$color1: #3A4F41;
+$color2: #B9314F;
+$color3: #D5A18E;
+
+$color1-darker: #2B3B30;
+
+$color-dark: #4A4848;
+$color-light: #fff;
+
+$bg-color: #f3f3f3;*/
+
+
+$fa-font-path: "../webfonts";
+
+$font1: 'Nunito Sans', sans-serif;
+$font2: 'Raleway', sans-serif;
+
+$bp-sm: 576px;
+$bp-md: 767px;
+$bp-lg: 992px;
+$bp-xl: 1200px;
+$bp-xxl: 1400px;

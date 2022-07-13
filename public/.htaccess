@@ -1,0 +1,5 @@
+# start the rewriting engine
+RewriteEngine On
+
+# rewrite the URL (index.php?p=controller/method/parameters)
+RewriteRule ^([a-zA-Z0-9\-\_\/]*)$ index.php?p=$1
